@@ -2,4 +2,4 @@
 2- Si, se puede a través de un pull request de GAMMA a BETA. ALFA debe usar fork sync, de esta forma los tres usuarios tendrían los repositorios iguales. 
 3- Si, se puede a través de un pull request de ALFA a BETA. GAMMA debe usar fork sync, de esta forma los tres usuarios tendrían los repositorios iguales. 
 4- Si yo hago cambios en mi fork y luego no hago un pull request, los datos creados se pierden.
-5- 
+5- comandos utilizados:| git add . | git commit -m | git pull | git push | (todo lo demás se ejecuto desde el GitHub)
