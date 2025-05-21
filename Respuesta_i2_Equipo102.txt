@@ -1,0 +1,2 @@
+1- busco en mis repositorios, el forkeo y le doy a fork sinc.
+2- si, se pude a travez de un pull requets.
